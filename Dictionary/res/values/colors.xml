@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <!-- Primary color of the app (shown in the app bar) -->
+    <color name="primary_color">#7E7E80</color>
+    <!-- Primary dark color of the app (shown in the status bar) -->
+    <color name="primary_dark_color">#666666</color>
+    <!-- Background color for app -->
+    <color name="tan_background">#EEEEEE</color>
+    <!-- Background color for the phrases category -->
+    <color name="category_radicals2">#00A7FB</color>
+    <color name="category_radicals">#4DC3FF</color>
+    <!-- Background color for the kanji category -->
+    <color name="category_kanji2">#FD00A9</color>
+    <color name="category_kanji">#FF4DC4</color>
+    <!-- Background color for the vocab category -->
+    <color name="category_vocab2">#A700FB</color>
+    <color name="category_vocab">#C44DFF</color>
+</resources>

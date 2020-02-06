@@ -1,0 +1,11 @@
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">WKDictionary</string>
+    <!-- Category name for the vocabulary words for Kanji [CHAR LIMIT=20] -->
+    <string name="category_kanji">Kanji</string>
+    <!-- Category name for the vocabulary words for Radicals [CHAR LIMIT=20] -->
+    <string name="category_radical">Radicals</string>
+    <!-- Category name for the vocabulary words for Vocab [CHAR LIMIT=20] -->
+    <string name="category_vocab">Vocab</string>
+
+</resources>
